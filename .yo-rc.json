@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.vedas.front",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "gateway",
+    "baseName": "front",
+    "packageName": "org.vedas.front",
+    "packageFolder": "org/vedas/front",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmRhMjFlNjgwNWY3ZjEwMDE5YTEwMWVkOTQ0NTQ5MTM0OWRiZjE3NWMwNDRmNTU5MTc4ZTE2MmI3MWQ0YTRhMTllYTQ0ZjYyZjM0MTgwNzVmNmUyZTBmY2I3ZTUyOTkzYjgyOWYxYjk2N2NiN2M3MWE2ZGVmNjY0NDdiZDQ0ODg=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "en"
+    ]
+  }
+}
